@@ -1,11 +1,25 @@
+html{font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    ;}
+
+
 .top-part1{background: url(images/top-banner.png);
           display: inline-block;
           float: left;
           background-repeat: no-repeat;
           width: 50%;}
+.butt-1{background:red;
+       color: white;
+       border-radius: 5px;
+       padding: 10px 20px;
+       font-size:20px;
+       font-family: arial;
+       font-weight: 600;
+       display: inline-block;}          
 .top-part2{display: inline-block;
           float: right;
-          width: 50%;}
+          width: 50%;
+         }
 
 
 .medile-part2{background: url(images/top-banner.png);
@@ -13,9 +27,18 @@
           float: left;
           background-repeat: no-repeat;
           width: 50%;}
+.butt-2{background:red;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-family: arial;
+    font-size:20px;
+    font-weight: 600;
+    display: inline-block;}          
 .medile-part1{display: inline-block;
                background: url(images/dream-bg.png);
                background-repeat: no-repeat;
+              background-position: right;
                 float: right;
                 width: 50%;}
 
