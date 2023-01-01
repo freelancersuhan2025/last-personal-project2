@@ -1,0 +1,21 @@
+.top-part1{background: url(images/top-banner.png);
+          display: inline-block;
+          float: left;
+          background-repeat: no-repeat;
+          width: 50%;}
+.top-part2{display: inline-block;
+          float: right;
+          width: 50%;}
+
+
+.medile-part2{background: url(images/top-banner.png);
+          display: inline-block;
+          float: left;
+          background-repeat: no-repeat;
+          width: 50%;}
+.medile-part1{display: inline-block;
+               background: url(images/dream-bg.png);
+               background-repeat: no-repeat;
+                float: right;
+                width: 50%;}
+
